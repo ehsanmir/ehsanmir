@@ -43,16 +43,16 @@ About me:     python developer \
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://t.me/ehsan_mir" target="blank">
-    <img align="center" src="https://www.svgrepo.com/download/349527/telegram.svg" alt="ehsan_mir" height="30" width="40"/>
+    <img align="center" src="telegram.svg" alt="ehsan_mir" height="30" width="40"/>
   </a>
   <a href="skype:ehsan.mir68?chat" target="blank">
-    <img align="center" src="https://www.svgrepo.com/download/134591/skype.svg" alt="ehsan.mir68" height="30" width="40"/>
+    <img align="center" src="skype.svg" alt="ehsan.mir68" height="30" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/ehsan-mir-583a4710a" target="blank">
-    <img align="center" src="https://www.svgrepo.com/download/157006/linkedin.svg" alt="ehsan-mir-583a4710a" height="30" width="40"/>
+    <img align="center" src="linkedin.svg" alt="ehsan-mir-583a4710a" height="30" width="40"/>
   </a>
   <a href="mailto:ehsanmiir@gmail.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/download/223047/gmail.svg" alt="ehsanmiir" height="30" width="40" />
+    <img align="center" src="gmail.svg" alt="ehsanmiir" height="30" width="40" />
 </div>
 <br />
 
