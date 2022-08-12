@@ -45,16 +45,13 @@ About me:     python developer \
   <a href="https://t.me/ehsan_mir" target="blank">
     <img align="center" src="telegram.svg" alt="ehsan_mir" height="30" width="40"/>
   </a>
-  <a href="skype:ehsan.mir68?chat" target="blank">
+  <a href="https://join.skype.com/invite/gJWPjmnIE00X" target="blank">
     <img align="center" src="skype.svg" alt="ehsan.mir68" height="30" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/ehsan-mir-583a4710a" target="blank">
     <img align="center" src="linkedin.svg" alt="ehsan-mir-583a4710a" height="30" width="40"/>
   </a>
-  <a href="mailto:ehsanmiir@gmail.com" target="blank">
-    <img align="center" src="gmail.svg" alt="ehsanmiir" height="30" width="40" />
 </div>
-<br />
 
 <!--
 - 🔭 I’m currently working on ...
